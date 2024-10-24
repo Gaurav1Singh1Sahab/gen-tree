@@ -6,4 +6,4 @@ React: Frontend framework to display the search bar and render the family member
 
 Axios: A JavaScript library for making API requests from React to Django's backend.
 
-SQLite or any SQL Database: To store family member details and images.
+SQLite: To store family member details and images.
